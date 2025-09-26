@@ -13,14 +13,14 @@ Here you’ll find a curated collection of my projects and Certificates, showcas
   🔗 <a href="https://github.com/DanySaad002/PortfolioProjects/blob/main/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion.png" target="_blank">Certificate</a>  
 
 - **Meta Data Analyst Professional Certificate (Coursera)**  
-  - Introduction to Data Analytics  
-    🔗 <a href="https://coursera.org/share/4b6090a213e1bc773f5a925ae232233b" target="_blank">View Certificate</a>  
-  - Data Analysis with Spreadsheets and SQL  
-    🔗 <a href="https://coursera.org/share/6ade9daf0deb8191792a86fc424a9bc2" target="_blank">View Certificate</a>  
-  - Python Data Analytics  
-    🔗 <a href="https://coursera.org/share/20c96b291696a7437d0e6d278c24a0aa" target="_blank">View Certificate</a>  
-  - Statistics Foundations *(ongoing)*  
-    📌 In progress
+  - Introduction to Data Analytics
+      🔗 <a href="https://coursera.org/share/4b6090a213e1bc773f5a925ae232233b" target="_blank">View Certificate</a>
+  - Data Analysis with Spreadsheets and SQL
+      🔗 <a href="https://coursera.org/share/6ade9daf0deb8191792a86fc424a9bc2" target="_blank">View Certificate</a>
+  - Python Data Analytics
+      🔗 <a href="https://coursera.org/share/20c96b291696a7437d0e6d278c24a0aa" target="_blank">View Certificate</a>
+  - Statistics Foundations *(ongoing)*
+      📌 In progress
 
 ---
 
@@ -64,7 +64,6 @@ Here you’ll find a curated collection of my projects and Certificates, showcas
 
 ## 🤳 Connect with Me  
 
-- <a href="https://danysaad002.github.io/Dany-Saad.github.io/" target="_blank">Portfolio Website</a>  
-- <a href="https://www.linkedin.com/in/dany-saad-02b269330/" target="_blank">LinkedIn</a>  
-- 📧 <a href="mailto:danysaadclear@gmail.com">danysaadclear@gmail.com</a>
-
+- 🌐 <a href="https://danysaad002.github.io/Dany-Saad.github.io/" target="_blank">Portfolio Website</a>  
+- 💼 <a href="https://www.linkedin.com/in/dany-saad-02b269330/" target="_blank">LinkedIn</a>  
+- 📧 <a href="mailto:danysaadclear@gmail.com" target="_blank">danysaadclear@gmail.com</a>  
